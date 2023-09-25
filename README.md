@@ -1,5 +1,10 @@
 # vpsproxy
-提供chatgpt, tiktok, youtube, ig，奈飞 等代理代办服务
+
+### vsp代买
+
+提供vps代买，科学上网全套解决方案，全平台。 android 手机，苹果手机，苹果电脑，windows系统。 随时与国际接轨。
+
+### 提供chatgpt, tiktok, youtube, ig，奈飞 等代理代办服务
 
 - 筛选优质的IP
 - 保证百分百可用于chatgpt, tiktok等服务
