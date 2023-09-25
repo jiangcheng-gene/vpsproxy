@@ -1,5 +1,13 @@
 # vpsproxy
 
+### chatgpt服务
+
+- 稳定的chatgpt使用IP
+- cdn加速，速度有保障
+- 帮助搭建环境
+- chatgpt账号代注册
+- 等待服务都可以提供
+
 ### vsp代买
 
 提供vps代买，科学上网全套解决方案，全平台。 android 手机，苹果手机，苹果电脑，windows系统。 随时与国际接轨。
